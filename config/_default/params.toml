@@ -1,5 +1,5 @@
 # Description for social sharing and search engines.
-description = "Website for MATH 250: Data Analysis at Azusa Pacific University"
+description = "Website for STAT 4380: Data Science at Villanova University"
 
 # Default image for social sharing and search engines. Place image in `static/images/` folder and specify image name here.
 sharing_image = ""
@@ -28,7 +28,7 @@ MathJaxCDN = "//cdn.bootcss.com"
 MathJaxVersion = "2.7.1"
 
 [footer]
-    github_url = "https://github.com/kgfitzgerald/APU_MATH250_website"
+    github_url = "https://github.com/kgfitzgerald/STAT_4380_website"
     twitter_url = ""
     support = "The website design is derived from  [tidymodels.org](https://www.tidymodels.org) via [https://sta199-fa21-003.netlify.app](https://sta199-fa21-003.netlify.app) with inspiration from [datavizm20](https://datavizm20.classes.andrewheiss.com) and [introds.org](https://introds.org/)."
 

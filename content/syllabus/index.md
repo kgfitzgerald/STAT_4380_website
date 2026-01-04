@@ -2,13 +2,13 @@
 title: About this course
 ---
 
-[**Click here**](MATH_250_Fitzgerald_F24.pdf) **to download a PDF copy of the official course syllabus.**
+[**Click here**](STAT_4380_Fitzgerald_F24.pdf) **to download a PDF copy of the official course syllabus.**
 
 ## Course Info
 
 | Course                       | Instructor                                                            |     |
 |------------------|-------------------------------------|------------------|
-| **MATH 250 - Data Analysis** | Katie Fitzgerald, PhD Statistics                                      |     |
+| **STAT 4380 - Data Analysis** | Katie Fitzgerald, PhD Statistics                                      |     |
 | Fall 2024                    | Assistant Professor of Statistics                                     |     |
 | Section 01 Class #: 10113    | Email: [kfitzgerald\@apu.edu](mailto:kfitzgerald@apu.edu){.email}     |     |
 | Segerstrom 172               | Office: Segerstrom 112                                                |     |
@@ -51,8 +51,8 @@ Students are expected to bring a laptop to all class sessions. If access to a la
 
 ## Course Communication
 
--   **Course website**: All lecture notes, assignment instructions, an up-to-date schedule, and other course materials may be found on this course website, [apumath250.netlify.app](apumath250.netlify.app).
--   **Canvas** will be used to submit assignments and view grades as well as a HELP forum for outside-of-class questions.
+-   **Course website**: All lecture notes, assignment instructions, an up-to-date schedule, and other course materials may be found on this course website, [nova-stat-4380.netlify.app](nova-stat-4380.netlify.app).
+-   **Blackboard** will be used to submit assignments and view grades as well as a HELP forum for outside-of-class questions.
 -   **Email**: If you have a personal question that is not suitable for the public HELP forum (e.g. about your grade or a personal accommodation), you are welcome to email me directly. I do my best to respond to emails within 24 hours Monday - Friday. Response time may be slower for emails sent Friday evening through Sunday.
 
 ## Course design
@@ -68,7 +68,7 @@ Modern data analysis is inherently tied to coding and computational tools, and c
 
 ### Preparation Quizzes (Prepare)
 
-At the beginning of each week, you will watch a series of lecture videos and take a low-stakes preparation quiz in Canvas to check your understanding. Each quiz can be attempted up to 3 times before the deadline, and your score will be the average of your attempts. The quiz is due by class-time on Tuesdays (4:20pm). 
+At the beginning of each week, you will watch a series of lecture videos and take a low-stakes preparation quiz in Blackboard to check your understanding. Each quiz can be attempted up to 3 times before the deadline, and your score will be the average of your attempts. The quiz is due by class-time on Tuesdays (4:20pm). 
 
 ### Application Exercises (Practice)
 
@@ -86,7 +86,7 @@ You will be given the opportunity to submit annotated test corrections to earn u
 
 ### Project (Perform)
 
-The purpose of the final project is to apply what you’ve learned throughout the semester to investigate a real-world social good problem by analyzing a relevant dataset of your choosing. You will identify an issue you care about (e.g. mental health, food insecurity, animal adoption, mass incarceration) and find a dataset that allows you to better understand the problem and/or proposed solutions. The project will be completed in self-assigned teams of 2-3. You will be asked to present your findings in a written report and a poster presentation. See [Project](https://apumath250.netlify.app/project/) tab of course website for more details.
+The purpose of the final project is to apply what you’ve learned throughout the semester to investigate a real-world social good problem by analyzing a relevant dataset of your choosing. You will identify an issue you care about (e.g. mental health, food insecurity, animal adoption, mass incarceration) and find a dataset that allows you to better understand the problem and/or proposed solutions. The project will be completed in self-assigned teams of 2-3. You will be asked to present your findings in a written report and a poster presentation. See [Project](https://nova-stat-4380.netlify.app/project/) tab of course website for more details.
 
 
 ### Data Ethics Readings & Community Annotations (Engage)
@@ -96,7 +96,7 @@ Each week, you will read an article or book excerpt that engages with issues rel
 
 ### Statistics Experiences (Engage)
 
-The world of statistics and data science is vast and dynamic! The goal of the Statistics Experience assignments is to help you engage with the statistics and data science communities outside of the classroom. There are a variety of ways you can participate in "Statistics Experiences," which include but are not limited to listening to a podcast, reading a book, getting coffee with a statistician, joining the American Statistical Association, or participating in #TidyTuesday. Each experience is worth a varying number of points (see [here](https://kgfitzgerald.github.io/APU_MATH_250/hw/se-01.html) for details), and you are required to collect at least 5 "Statistics Experience points" throughout the semester. Up to 10 additional points can be collected and added to your lowest homework grade(s).
+The world of statistics and data science is vast and dynamic! The goal of the Statistics Experience assignments is to help you engage with the statistics and data science communities outside of the classroom. There are a variety of ways you can participate in "Statistics Experiences," which include but are not limited to listening to a podcast, reading a book, getting coffee with a statistician, joining the American Statistical Association, or participating in #TidyTuesday. Each experience is worth a varying number of points (see [here](https://kgfitzgerald.github.io/NOVA_STAT_4380/hw/se-01.html) for details), and you are required to collect at least 5 "Statistics Experience points" throughout the semester. Up to 10 additional points can be collected and added to your lowest homework grade(s).
 
 
 
@@ -146,7 +146,7 @@ The final letter grade will be determined based on the following thresholds:
 The coding skills gained in this course build cumulatively week-by-week, so it is important to complete and submit all assignments on time. Due dates are there to help you keep up with course material and ensure you receive feedback in a timely manner.
 
 + Late work will not be accepted for preparation quizzes or application exercises, as these are designed to help you prepare for the in-class labs each week.
-+ All lab assignments will have a “Best By” date, meaning it’s best for your learning to submit them by the “Best By” date. For any lab assignment, you may submit a “Late work plan” form (available on Canvas) to propose an alternative submission date that is within one week of the Best By date. 
++ All lab assignments will have a “Best By” date, meaning it’s best for your learning to submit them by the “Best By” date. For any lab assignment, you may submit a “Late work plan” form (available on Blackboard) to propose an alternative submission date that is within one week of the Best By date. 
     - All reasonable requests will be honored, but you must submit your Late work plan PRIOR to the Best By date. 
     - Late work will not be accepted more than one week after the Best By date
     - To incentivize on-time work, you will have the opportunity to revise and re-submit any assignments that are turned in by the Best By date. A reasonable attempt needs to have been made on each problem in order to earn additional points on the re-submission. That is, it’s best to attempt each problem by the Best By date if you can, and it doesn’t have to be perfect on the first submission. 
@@ -159,7 +159,7 @@ If there are life circumstances that are having a longer-term impact on your aca
 
 ## Important dates
 
-*See [Project](https://apumath250.netlify.app/project/) tab for important due dates associated with the course project*
+*See [Project](https://nova-stat-4380.netlify.app/project/) tab for important due dates associated with the course project*
 
 | Date                 | Event                           |
 |----------------------|---------------------------------|

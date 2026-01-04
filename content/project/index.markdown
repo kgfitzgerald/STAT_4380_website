@@ -1,5 +1,5 @@
 ---
-title: "MATH 250 Final Project"
+title: "STAT 4380 Final Project"
 ---
 
 ## Timeline
@@ -44,11 +44,11 @@ Below are some reflection questions to help you identify a topic you might want 
 + What is a cause you feel inspired to volunteer your time for or donate money towards?
 + What's one dream you have for contributing good to the world? 
 
-You will submit **three** potential topics along with a brief reflection on Canvas by Thursday, September 19. This can help you identify areas of common interest when forming your project team. 
+You will submit **three** potential topics along with a brief reflection on Blackboard by Thursday, September 19. This can help you identify areas of common interest when forming your project team. 
 
 ### Logistics
 
-You should sign up for a team of 2 on Canvas no later than **Tuesday, September 24**. 
+You should sign up for a team of 2 on Blackboard no later than **Tuesday, September 24**. 
 
 The three primary deliverables for the final project are
 
@@ -166,7 +166,7 @@ Choose **three** substantially different datasets you are interested in analyzin
 
 ### Submission 
 
-Submit the PDF of your proposal on Canvas by midnight on **Saturday, October 5**. I will provide feedback on your proposal to help you determine a data set to use for the project. 
+Submit the PDF of your proposal on Blackboard by midnight on **Saturday, October 5**. I will provide feedback on your proposal to help you determine a data set to use for the project. 
 
 ### Notes 
 
@@ -220,7 +220,7 @@ Your cleaning & EDA steps should include:
 
 + **You should save the clean data as a .RDS file.**
 
-Your zip file submitted on Canvas should contain:
+Your zip file submitted on Blackboard should contain:
 
 + .Rproj file
 + cleaning-eda.qmd
@@ -251,7 +251,7 @@ For this part of the project, you should follow Chapter 6 of *Communicating with
 
 The purpose of the rough draft and peer review is to give you an opportunity to get feedback on your analysis before the final product. 
 
-Your team will write the rough draft in a `written-report.qmd` file in your project repo and submit upload the pdf to the shared Google Drive (link provided on Canvas homepage, at bottom) 
+Your team will write the rough draft in a `written-report.qmd` file in your project repo and submit upload the pdf to the shared Google Drive (link provided on Blackboard homepage, at bottom) 
 
 See "Written Report" section below for a description of each of the sections expected in your report. 
 
@@ -282,7 +282,7 @@ You will also engage in (ungraded) peer review of poster drafts and oral present
 Your final report must be written using Quarto. All team members must contribute meaningfully to the analysis and are responsible for what's contained in the final report. Before you finalize your report, make sure the printing of code chunks is turned off with the option `#| echo: false`.
 
 
-**Submit the final report on Canvas under the <i>Final Report & Repo</i> assignment.** The mandatory components of the report are below. You are free to add additional sections as necessary. The report, including visualizations, should be **no more than 10 pages long.** There is no minimum page requirement; however, you must comprehensively address all of the aspects mentioned below.
+**Submit the final report on Blackboard under the <i>Final Report & Repo</i> assignment.** The mandatory components of the report are below. You are free to add additional sections as necessary. The report, including visualizations, should be **no more than 10 pages long.** There is no minimum page requirement; however, you must comprehensively address all of the aspects mentioned below.
 
 The written report is worth 45 points, broken down as follows:
 
@@ -353,7 +353,7 @@ This is an assessment of the overall presentation and formatting of the written 
 
 ### Poster
 
-In addition to the write-up, your team must also create an academic poster to summarize and showcase your project. Introduce your research question and dataset, showcase visualizations, and provide some conclusions. These poster should serve as a visual "elevator pitch" to accompany to your write-up and will be graded for content and quality. The poster is due on Canvas **no later than noon on Friday, December 8.** This will allow time to have them printed before the presentations during Finals Week. 
+In addition to the write-up, your team must also create an academic poster to summarize and showcase your project. Introduce your research question and dataset, showcase visualizations, and provide some conclusions. These poster should serve as a visual "elevator pitch" to accompany to your write-up and will be graded for content and quality. The poster is due on Blackboard **no later than noon on Friday, December 8.** This will allow time to have them printed before the presentations during Finals Week. 
 
 Here is a *<u>suggested</u>* outline as you think through what should be included on the poster; you do *<u>not</u>* have to use these exact categories:
 
@@ -577,7 +577,7 @@ tidy(model) |>
 - **Don't use variable names in your narrative!** Use descriptive terms, so the reader understands your narrative without relying on the codebook.
   - ❌ There is a negative linear relationship between mpg and hp.
   - ✅ There is a negative linear relationship between a car's fuel economy (in miles per gallon) and its horsepower.
-- **Know your audience:** Your report should be written for a general audience who has an understanding of statistics at the level of MATH 250.
+- **Know your audience:** Your report should be written for a general audience who has an understanding of statistics at the level of STAT 4380.
 - **Avoid subject matter jargon:** Don't assume the audience knows all of the specific terminology related to your subject area. If you must use jargon, include a brief definition the first time you introduce a term. 
 - **Tell the "so what":** Your report and poster should be more than a list of interpretations and technical definitions. Focus on what the results mean, i.e. what you want the audience to know about your topic after reading your report or viewing your poster. 
 - **Tell a story:** All visualizations, tables, model output, and narrative should tell a cohesive story!

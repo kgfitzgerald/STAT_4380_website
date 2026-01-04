@@ -14,17 +14,17 @@ If you have a question during class, feel free to ask it! There are likely other
 
 I am here to help you be successful in the course. You are encouraged to attend student hours during the times posted in the Syllabus to ask questions about the course content and assignments. Even if you don’t know what your specific questions or points of confusion are, we can figure that out together. A lot of questions are most effectively answered in-person, so student hours are a valuable resource. Please use them!
 
-Student hours will be held in person (Segerstrom 112) and on Zoom, as well as one day a week in the APU Community Garden. Join using the Zoom link in [Canvas](https://canvas.apu.edu). You can find the student hours schedule on the [sylllabus page](https://apumath250.netlify.app/syllabus/) and in Canvas. 
+Student hours will be held in person (Segerstrom 112) and on Zoom, as well as one day a week in the APU Community Garden. Join using the Zoom link in [Blackboard](https://elearning.villanova.edu/ultra/courses/_187521_1/cl/outline). You can find the student hours schedule on the [sylllabus page](https://nova-stat-4380.netlify.app/syllabus/) and in Blackboard. 
 
-## Canvas HELP Forum
+## Blackboard HELP Forum
 
-Outside of class and student hours, any questions about course content or assignments should be posted on the [HELP Forum on Canvas](https://canvas.apu.edu/courses/55797/discussion_topics/660860). Rather than emailing questions to Dr. Fitz, you should post your questions in the HELP Forum. There is an option to do so anonymously if you prefer. Chances are, someone else has the same question, and others may be able to help you find the answer. 
+Outside of class and student hours, any questions about course content or assignments should be posted on the [HELP Forum on Blackboard](https://elearning.villanova.edu/ultra/courses/_187521_1/cl/outline/courses/55797/discussion_topics/660860). Rather than emailing questions to Dr. Fitz, you should post your questions in the HELP Forum. There is an option to do so anonymously if you prefer. Chances are, someone else has the same question, and others may be able to help you find the answer. 
 
 You are encouraged to answer each others' questions on the HELP forum, and to "like" questions and comments when you have the same question or arrived at the same solution. Asking questions and helping each other learn are GOOD things in this course.
 
 ## Email 
 
-If you have questions about personal matters that are not appropriate for the public forum on Canvas (e.g. illness, accommodations, etc.), you may email Dr. Fitz at [kfitzgerald@apu.edu](mailto:kfitzgerald@apu.edu). 
+If you have questions about personal matters that are not appropriate for the public forum on Blackboard (e.g. illness, accommodations, etc.), you may email Dr. Fitz at [kfitzgerald@apu.edu](mailto:kfitzgerald@apu.edu). 
 
 
 ## Resources for the course

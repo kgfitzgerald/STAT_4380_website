@@ -6,7 +6,7 @@ output:
     css: ["xaringan-themer.css", "slides.css"]
     lib_dir: libs/font-awesome
     mathjax: "https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_HTMLorMML"
-    logo: img/MATH_250_sticker.png
+    logo: img/STAT_4380_sticker.png
     nature:
       ratio: "16:9"
       highlightLines: true

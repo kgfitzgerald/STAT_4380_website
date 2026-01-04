@@ -1,5 +1,5 @@
 ---
-title: "Welcome to MATH 250!"
+title: "Welcome to STAT 4380!"
 author: "Dr. Katie Fitzgerald"
 
 output:
@@ -29,7 +29,7 @@ class: center, middle
 
 class: middle, center
 
-# MATH 250: Data Analysis (aka Intro to Data Science)
+# STAT 4380: Data Analysis (aka Intro to Data Science)
 
 ---
 
@@ -117,11 +117,11 @@ class: middle, center
 
 ## Course Toolkit
 
-**Course Website:** [apumath250.netlify.app](apumath250.netlify.app)
+**Course Website:** [nova-stat-4380.netlify.app](nova-stat-4380.netlify.app)
   - Central hub for the course!
   - Quick tour of the website
 
-**Canvas** [canvas.apu.edu](canvas.apu.edu)
+**Blackboard** [https://elearning.villanova.edu/ultra/courses/_187521_1/cl/outline](https://elearning.villanova.edu/ultra/courses/_187521_1/cl/outline)
   - Gradebook
   
 **Campuswire**: [https://campuswire.com/c/GD02807A2/feed](https://campuswire.com/c/GD02807A2/feed)
@@ -206,7 +206,7 @@ class: middle, center
 
 # Let's look at some data!
 
-<!-- - Let's take a look at the [UN Votes](https://apumath250.netlify.app/appex/appex01-unvotes.html) analysis. -->
+<!-- - Let's take a look at the [UN Votes](https://nova-stat-4380.netlify.app/appex/appex01-unvotes.html) analysis. -->
 
 <!-- - You may discuss with your neighbor. (Don't forget to introduce yourself first!) -->
 

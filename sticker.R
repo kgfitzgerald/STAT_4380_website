@@ -51,7 +51,7 @@ sticker(
   s_y = 1.2,
   s_width = 1.2,
   s_height = 1.2,
-  package = "MATH 250",
+  package = "STAT 4380",
   p_x = 1,
   p_y = 0.5,
   p_color = "#4187aa",
@@ -64,7 +64,7 @@ sticker(
   #  u_color = "#FDE725",
   #  u_family = u_family,
   #  u_size = 1.25,
-  filename = "./content/home/MATH_250_sticker.png",
+  filename = "./content/home/STAT_4380_sticker.png",
   dpi = 1200
 )
 
@@ -74,7 +74,7 @@ sticker(
   s_y = 1.2,
   s_width = 1.2,
   s_height = 1.2,
-  package = "MATH 250",
+  package = "STAT 4380",
   p_x = 1,
   p_y = 0.5,
   p_color = "#4187aa",
@@ -87,7 +87,7 @@ sticker(
   #  u_color = "#FDE725",
   #  u_family = u_family,
   #  u_size = 1.25,
-  filename = "./public/img/MATH_250_sticker.png",
+  filename = "./public/img/STAT_4380_sticker.png",
   dpi = 1200
 )
 
@@ -97,7 +97,7 @@ sticker(
   s_y = 1.2,
   s_width = 1.2,
   s_height = 1.2,
-  package = "MATH 250",
+  package = "STAT 4380",
   p_x = 1,
   p_y = 0.5,
   p_color = "#4187aa",
@@ -110,7 +110,7 @@ sticker(
   #  u_color = "#FDE725",
   #  u_family = u_family,
   #  u_size = 1.25,
-  filename = "./static/img/MATH_250_sticker.png",
+  filename = "./static/img/STAT_4380_sticker.png",
   dpi = 1200
 )
 
@@ -120,7 +120,7 @@ sticker(
   s_y = 1.2,
   s_width = 1.2,
   s_height = 1.2,
-  package = "MATH 250",
+  package = "STAT 4380",
   p_x = 1,
   p_y = 0.5,
   p_color = "#4187aa",
@@ -133,6 +133,6 @@ sticker(
   #  u_color = "#FDE725",
   #  u_family = u_family,
   #  u_size = 1.25,
-  filename = "./public/home/MATH_250_sticker.png",
+  filename = "./public/home/STAT_4380_sticker.png",
   dpi = 1200
 )

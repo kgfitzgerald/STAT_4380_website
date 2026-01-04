@@ -22,8 +22,8 @@
 
 [[main]]
     # pre = "<i class=\"fa fa-graduation-cap\" aria-hidden=\"true\"></i>"
-    url = "https://canvas.apu.edu"
-    name = " Canvas"
+    url = "https://elearning.villanova.edu/ultra/courses/_187521_1/cl/outline"
+    name = " Blackboard"
     weight = 40
 
 
@@ -41,7 +41,7 @@
     
 
 [[main]]
-    url = "https://github.com/kgfitzgerald/APU_MATH250_website"
+    url = "https://github.com/kgfitzgerald/STAT_4380_website"
     name  = "<i class='fab fa-github fa-lg'></i>"
     weight = 90
     
