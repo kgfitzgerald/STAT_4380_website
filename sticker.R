@@ -36,15 +36,22 @@ p <- ggplot(data, aes(x = y, y = factor(dgm), colour = factor(method), fill = fa
   coord_cartesian(clip = "off") +
   scale_color_viridis_d(direction = -1) +
   scale_fill_viridis_d(direction = -1) +
-  theme(legend.position = "none", plot.margin = margin(0, 0, 0, 0, "cm"))
+  theme(legend.position = "none", plot.margin = margin(5, 5, 5, 5, "mm"))
 
 
-sysfonts::font_add(family = "Roboto Condensed", regular = "RobotoCondensed-Regular.ttf")
-p_family <- "Roboto Condensed"
-sysfonts::font_add(family = "Roboto Mono", regular = "RobotoMono-Regular.ttf")
+sysfonts::font_add(
+  family = "Roboto Condensed",
+  regular = "fonts/roboto_condensed/static/RobotoCondensed-Regular.ttf",
+  bold = "fonts/roboto_condensed/static/RobotoCondensed-Bold.ttf",
+  italic = "fonts/roboto_condensed/static/RobotoCondensed-Italic.ttf",
+  bolditalic = "fonts/roboto_condensed/static/RobotoCondensed-BoldItalic.ttf"
+)
+
+sysfonts::font_add(family = "Roboto Mono", regular = "fonts/roboto_mono/static/RobotoMono-Regular.ttf")
 p_family <- "Roboto Condensed"
 u_family <- "Roboto Mono"
 
+
 sticker(
   subplot = p,
   s_x = 1,
@@ -53,86 +60,15 @@ sticker(
   s_height = 1.2,
   package = "STAT 4380",
   p_x = 1,
-  p_y = 0.5,
+  p_y = 0.55,
   p_color = "#4187aa",
-  #p_family = p_family,
-  p_size = 6,
+  p_family = p_family,
+  p_size = 18,
   h_fill = "white",
   h_color = "#4187aa",
-  h_size = 1,
-  #  url = "github.com/ellessenne/rsimsum",
-  #  u_color = "#FDE725",
-  #  u_family = u_family,
-  #  u_size = 1.25,
+  h_size = 1.4,        # a bit thicker border
   filename = "./content/home/STAT_4380_sticker.png",
-  dpi = 1200
+  dpi = 300
 )
 
-sticker(
-  subplot = p,
-  s_x = 1,
-  s_y = 1.2,
-  s_width = 1.2,
-  s_height = 1.2,
-  package = "STAT 4380",
-  p_x = 1,
-  p_y = 0.5,
-  p_color = "#4187aa",
-  #p_family = p_family,
-  p_size = 6,
-  h_fill = "white",
-  h_color = "#4187aa",
-  h_size = 1,
-  #  url = "github.com/ellessenne/rsimsum",
-  #  u_color = "#FDE725",
-  #  u_family = u_family,
-  #  u_size = 1.25,
-  filename = "./public/img/STAT_4380_sticker.png",
-  dpi = 1200
-)
 
-sticker(
-  subplot = p,
-  s_x = 1,
-  s_y = 1.2,
-  s_width = 1.2,
-  s_height = 1.2,
-  package = "STAT 4380",
-  p_x = 1,
-  p_y = 0.5,
-  p_color = "#4187aa",
-  #p_family = p_family,
-  p_size = 6,
-  h_fill = "white",
-  h_color = "#4187aa",
-  h_size = 1,
-  #  url = "github.com/ellessenne/rsimsum",
-  #  u_color = "#FDE725",
-  #  u_family = u_family,
-  #  u_size = 1.25,
-  filename = "./static/img/STAT_4380_sticker.png",
-  dpi = 1200
-)
-
-sticker(
-  subplot = p,
-  s_x = 1,
-  s_y = 1.2,
-  s_width = 1.2,
-  s_height = 1.2,
-  package = "STAT 4380",
-  p_x = 1,
-  p_y = 0.5,
-  p_color = "#4187aa",
-  #p_family = p_family,
-  p_size = 6,
-  h_fill = "white",
-  h_color = "#4187aa",
-  h_size = 1,
-  #  url = "github.com/ellessenne/rsimsum",
-  #  u_color = "#FDE725",
-  #  u_family = u_family,
-  #  u_size = 1.25,
-  filename = "./public/home/STAT_4380_sticker.png",
-  dpi = 1200
-)
