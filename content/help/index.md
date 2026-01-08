@@ -2,6 +2,8 @@
 title: Help
 ---
 
+See [this page](https://kgfitzgerald.github.io/NOVA_STAT_4380/ae/week-00.html) for Getting Started in R & RStudio
+
 ## Getting help in the course
 
 I expect everyone will have questions at some point in the semester, so I encourage you to use the following resources for help: 
