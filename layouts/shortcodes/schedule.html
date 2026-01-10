@@ -8,11 +8,11 @@
 
             {{- if .header }} 
             <td style="width:5%;text-align:center" class="mid-table-header">Prepare</td>
-            <td style="width:5%;text-align:center" class="mid-table-header">AE</td>
+            <td style="width:5%;text-align:center" class="mid-table-header">Slides</td>
+            <td style="width:5%;text-align:center" class="mid-table-header">Announcements</td>
             <td style="width:5%;text-align:center" class="mid-table-header">Labs</td>
-            <td style="width:5%;text-align:center" class="mid-table-header">Exam</td>
             <td style="width:5%;text-align:center" class="mid-table-header">Project</td>
-            <td style="width:5%;text-align:center" class="mid-table-header">SE</td>
+            <td style="width:5%;text-align:center" class="mid-table-header"></td>
 
             {{- else }} 
 
@@ -28,17 +28,25 @@
             {{- end }}
             
            
-
-             
-            
-             {{- if .ae }}
-            <td align="center" style="width:8%;text-align:center"><a
-                    href="{{ .ae }}">
-                    <i class="fas fa-users fa-lg"></i></a></td>
+               {{- if .slides }}
+            <td align="center" style="width:8%;text-align:center"><a href="{{ .slides }}">
+                    <i class="fas fa-file-powerpoint fa-lg"></i></a></td>
             {{- else }}
             <td align="center" style="width:8%;text-align:center">
                 <font color="f1f1f1">
-                    <i class="fas fa-users fa-lg"></i></font>
+                    <i class="fas fa-file-powerpoint fa-lg"></i></font>
+            </td>
+            {{- end }}
+             
+            
+             {{- if .ann }}
+            <td align="center" style="width:8%;text-align:center"><a
+                    href="{{ .ann }}">
+                    <i class="fas fa-bullhorn fa-lg"></i></a></td>
+            {{- else }}
+            <td align="center" style="width:8%;text-align:center">
+                <font color="f1f1f1">
+                    <i class="fas fa-bullhorn fa-lg"></i></font>
             </td>
             {{- end }}
 
@@ -52,39 +60,18 @@
                     <i class="far fa-file-code fa-lg"></i></font>
             </td>
             {{- end }}
-
-            
-            
-               {{- if .exam }}
-            <td align="center" style="width:8%;text-align:center"><a href="{{ .exam }}">
-                    <i class="fas fa-check-square fa-lg"></i></a></td>
-            {{- else }}
-            <td align="center" style="width:8%;text-align:center">
-                <font color="f1f1f1">
-                    <i class="fas fa-check-square fa-lg"></i></font>
-            </td>
-            {{- end }}
             
                {{- if .project }}
             <td align="center" style="width:8%;text-align:center"><a href="{{ .project }}">
-                    <i class="fas fa-file-powerpoint fa-lg"></i></a></td>
+                    <i class="fas fa-users fa-lg"></i></a></td>
             {{- else }}
             <td align="center" style="width:8%;text-align:center">
                 <font color="f1f1f1">
-                    <i class="fas fa-file-powerpoint fa-lg"></i></font>
+                    <i class="fas fa-users fa-lg"></i></font>
             </td>
             {{- end }}
             
-            {{- if .se }}
-            <td align="center" style="width:8%;text-align:center"><a
-                    href="{{ .se }}">
-                    <i class="fas fa-globe fa-lg"></i></a></td>
-            {{- else }}
-            <td align="center" style="width:8%;text-align:center">
-                <font color="f1f1f1">
-                    <i class="fas fa-globe fa-lg"></i></font>
-            </td>
-            {{- end }}
+
 
             {{- end }}
         </tr>
