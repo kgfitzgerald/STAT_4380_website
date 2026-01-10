@@ -505,76 +505,13 @@ Be sure all plot titles and axis labels are visible and easy to read.
 
 - Use informative titles, <u>not</u> variable names, for titles and axis labels.
 - Use `coord_flip()` to flip the *x* and *y* axes on the plot. This is useful if you a bar plot with an x-axis that is difficult to read due to overlapping text. 
-
-❌ **NO! The x-axis is hard to read because the names overlap.**
-
-
-```r
-ggplot(data = mpg, aes(x = manufacturer)) +
-  geom_bar()
-```
-
-<img src="{{ "index_files/figure-html/unnamed-chunk-3-1.png" | relURL }}" width="672" />
-
-
-✅ **YES! Names are readable**
-
-
-```r
-ggplot(data = mpg, aes(x = manufacturer)) +
-  geom_bar() +
-  coord_flip()
-```
-
-<img src="{{ "index_files/figure-html/unnamed-chunk-4-1.png" | relURL }}" width="672" />
-
-
-#### Do a little more to make the plot look professional!
-
-- Informative title and axis labels
-- Flipped coordinates to make names readable
-- Arranged bars based on count
-- Capitalized manufacturer names
-- *Optional: Added color - Use a coordinated color scheme throughout paper / presentation*
-- *Optional: Applied a theme - Use same theme throughout paper / presentation*
-
-
-```r
-mpg |>
-  count(manufacturer) |>
-  mutate(manufacturer = str_to_title(manufacturer)) |>
-  ggplot(aes(x = fct_reorder(manufacturer,n), y = n)) +
-  geom_bar(stat = "identity", fill = "steelblue") +
-  coord_flip() +
-  labs(x = "Manufacturer", 
-       y = "Count", 
-       title = "The most common manufacturer is Dodge") +
-  theme_bw() 
-```
-
-<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-5-1.png" width="672" />
-
+- Put in the extra effort to make your plots looks more professional
 
 #### Tables and model output
 
 - Use the `kable` function from the knitr package to neatly output all tables and model output. This will also ensure all model coefficients are displayed. 
   - Use the `digits` argument to display only 3 or 4 significant digits. 
   - Use the `caption` argument to add captions to your table. 
-
-
-
-```r
-model <- lm(mpg ~ hp, data = mtcars)
-tidy(model) |>
-  kable(digits = 3)
-```
-
-
-
-|term        | estimate| std.error| statistic| p.value|
-|:-----------|--------:|---------:|---------:|-------:|
-|(Intercept) |   30.099|     1.634|    18.421|       0|
-|hp          |   -0.068|     0.010|    -6.742|       0|
 
 
 #### Guidelines for communicating results 
