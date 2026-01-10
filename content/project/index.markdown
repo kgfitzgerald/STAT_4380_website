@@ -4,25 +4,23 @@ title: "STAT 4380 Final Project"
 
 ## Timeline
 
-Project Brainstorm due **Thursday, September 19, 11:59pm**
+Project Brainstorm due **Thursday, February 6, 11:59pm**
 
-Choose project teams by **Tuesday, September 24, 4:20pm**
+Choose project teams by **Tuesday, February 10, 4pm**
 
-Proposal due **Saturday, October 5, 11:59pm**
+Proposal due **Saturday, February 19, 11:59pm**
 
-Data cleaning & preliminary EDA due **Saturday, October 19, 11:59pm**
+Data cleaning & preliminary EDA due **Thursday, March 12, 11:59pm**
 
-Preliminary Data Story due **Tuesday, November 5, 11:59pm**
+Preliminary Data Story due **Tuesday, March 31, 11:59pm**
 
-Poster rough draft due **Thursday, November 14, 11:59pm**
+Presentation rough draft due **Thursday, April 16, 11:59pm**
 
-Written report rough draft due **Tuesday, November 19, 11:59pm** 
+Written report rough draft due **Tuesday, April 21, 11:59pm** 
 
-Elevator pitch draft due **Thursday, December 5, 4:20pm**
+Final presentations: **April 28 & 30 (classtime) + Monday, May 11, 2:30 - 5pm**
 
-Final written report due **Saturday, December 7, 11:59pm** 
-
-Poster Presentation: **TBD during Exam Week (Dec 9 - 13)**
+Final written report due **Monday, May 4, 11:59pm** 
 
 ## Introduction & grading summary
 
@@ -38,23 +36,23 @@ The project will be completed in self-assigned teams of 2. You should choose a d
 Below are some reflection questions to help you identify a topic you might want to explore.
 
 + What are the biggest challenges you and your peers are facing in your lives?
-+ What needs are your neighbors facing? What barriers prevent them from flourishing? Consider physical, financial, educational, health, nutritional, transportation, legal, relational, employment, and spiritual needs. Consider Azusa, Los Angeles, California, the U.S., your hometown, and/or another place of significance to you. 
++ What needs are your neighbors facing? What barriers prevent them from flourishing? Consider physical, financial, educational, health, nutritional, transportation, legal, relational, employment, and spiritual needs. Consider the Greater Philadelphia area, Pennsylvania, the U.S., your hometown, and/or another place of significance to you. 
 + What's broken in the world that you would like to see healed?
 + What social or political issue do you want to understand better? 
 + What is a cause you feel inspired to volunteer your time for or donate money towards?
 + What's one dream you have for contributing good to the world? 
 
-You will submit **three** potential topics along with a brief reflection on Blackboard by Thursday, September 19. This can help you identify areas of common interest when forming your project team. 
+You will submit **three** potential topics along with a brief reflection on Blackboard by Thursday, February 5. This can help you identify areas of common interest when forming your project team. 
 
 ### Logistics
 
-You should sign up for a team of 2 on Blackboard no later than **Tuesday, September 24**. 
+You should sign up for a team of 2 on Blackboard no later than **Tuesday, February 10**. 
 
 The three primary deliverables for the final project are
 
 - A written, reproducible report detailing your analysis
 - An RStudio project repository corresponding to your report
-- A poster presentation during finals week
+- An oral presentation
 
 ### Grading summary
 
@@ -62,60 +60,64 @@ The grade breakdown is as follows:
 
 Total                                                   | 100 pts
 --------------------------------------------------------|--------
-**Project brainstorm**                                  | 2 pts
+**Project brainstorm**                                  | 1 pts
 **Project proposal**                                    | 3 pts
-**Preliminary EDA**                                     | 3 pts
+**Preliminary EDA & Cleaning**                          | 3 pts
 **Preliminary Data Story**                              | 3 pts
-**Poster Rough Draft**                                  | 3 pts
+**Presentaiton Rough Draft**                            | 3 pts
 **Written Rough Draft**                                 | 3 pts
-**Elevator Pitch Draft**                                | 3 pts
 **Peer feedback**                                       | 5 pts
-**Written report**                                      | 30 pts
+**Written report**                                      | 35 pts
 **Project repo & reproducibility**                      | 15 pts
-**Poster presentation**                                 | 30 pts
+**Oral presentation**                                   | 30 pts
 
 
 **<i>Note: No late projects are accepted.</i>**
 
 ## Data sources
 
-In order for you to have the greatest chance of success with this project it is important that you choose a manageable dataset. This means that the data should be readily accessible and large enough that multiple relationships can be explored. Your dataset must have **at least 500 observations and at least 8 variables**. The dataset should include a rich mix of categorical, discrete numeric, and continuous numeric data. At least 6 of the variables must be useful and unique explanatory variables. 
+In order for you to have the greatest chance of success with this project it is important that you choose a manageable dataset. This means that the data should be readily accessible and large enough that multiple relationships can be explored. Your dataset must have **at least 200 observations and at least 8 variables**. At least 6 of the variables must be useful and unique explanatory variables. 
 
 + Identifier variables such as “name”, “social security number”, etc. are not useful explanatory variables.
 + If you have multiple columns with the same information (e.g. “state abbreviation” and “state name”), then they are not unique explanatory variables.
 
+If you set your hearts on a dataset that has fewer observations or variables than what’s suggested here, that might still be ok; use these numbers as guidance for a successful proposal, not as minimum requirements.
+
 **Data sets that can't be used:** 
 
 - Data sets that have been used for class examples or assignments. 
-- Data sets from Kaggle.
 - Data sets analyzed in another course.
 
 No two groups can analyze the same dataset, so I encourage you to be creative! 
 
 Some resources that may be helpful:
 
-- [Los Angeles Data Justice Hub](https://communityengagement.ucla.edu/programs/los-angeles-data-justice-hub/#toggle-id-1-closed)
+
 -   [Awesome public datasets](https://github.com/awesomedata/awesome-public-datasets)
 -   [Bikeshare data portal](https://www.bikeshare.com/data/)
 -   [CDC](https://www.cdc.gov/datastatistics/)
+-   [CORGIS: The Collection of Really Great, Interesting, Situated Datasets](https://think.cs.vt.edu/corgis/csv/)
 -   [Data.gov](https://www.data.gov/)
 -   [Data is Plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
 -   [Durham Open Data Portal](https://live-durhamnc.opendata.arcgis.com/)
 -   [Edinburgh Open Data](https://edinburghopendata.info/)
 -   [Election Studies](https://electionstudies.org//)
 -   [European Statistics](https://ec.europa.eu/eurostat/)
--   [CORGIS: The Collection of Really Great, Interesting, Situated Datasets](https://think.cs.vt.edu/corgis/csv/)
+-   [FiveThirtyEight](https://data.fivethirtyeight.com)
+-   [FRED Economic Data](https://fred.stlouisfed.org)
 -   [General Social Survey](https://gss.norc.org/)
 -   [Google Dataset Search](https://datasetsearch.research.google.com/)
 -   [Harvard Dataverse](https://dataverse.harvard.edu/)
 -   [International Monetary Fund](https://data.imf.org/?sk=388DFA60-1D26-4ADE-B505-A05A558D9A42&sId=1479329328660)
 -   [IPUMS survey data from around the world](https://ipums.org/)
+-   [Los Angeles Data Justice Hub](https://communityengagement.ucla.edu/programs/los-angeles-data-justice-hub/#toggle-id-1-closed)
 -   [Los Angeles Open Data](https://data.lacity.org/browse)
 -   [NHS Scotland Open Data](https://www.opendata.nhs.scot/)
 -   [NYC OpenData](https://opendata.cityofnewyork.us/)
 -   [Open access to Scotland's official statistics](https://statistics.gov.scot/home)
 -   [Pew Research](https://www.pewresearch.org/download-datasets/)
 -   [PRISM Data Archive Project](https://www.icpsr.umich.edu/icpsrweb/content/ICPSR/fenway.html)
+-   [Responsible Datasets in Context](https://www.responsible-datasets-in-context.com/datasets.html)
 -   [Statistics Canada](https://www.statcan.gc.ca/en/start)
 -   [TidyTuesday](https://github.com/rfordatascience/tidytuesday)
 -   [The National Bureau of Economic Research](https://www.nber.org/research/data?page=1&perPage=50)
@@ -166,7 +168,7 @@ Choose **three** substantially different datasets you are interested in analyzin
 
 ### Submission 
 
-Submit the PDF of your proposal on Blackboard by midnight on **Saturday, October 5**. I will provide feedback on your proposal to help you determine a data set to use for the project. 
+Submit the PDF of your proposal on Blackboard by midnight on **Saturday, February 21**. I will provide feedback on your proposal to help you determine a data set to use for the project. 
 
 ### Notes 
 
@@ -271,11 +273,11 @@ Total                                                   | 5 pts
 
 Critically reviewing others' work is a crucial part of the scientific process, and giving constructive feedback is an important skill that must be practiced. The process can enhance your ability to self-assess and improve your own work as well.
 
-You will be assigned a team to review. Time will be spent on peer review in class in Week 13, and your team will have until class-time on **Tuesday in Week 14** to provide a detailed critique about the written report and data analysis. This feedback is intended to help you create a high quality final project, as well as give you experience reading and constructively critiquing the work of others.
+You will be assigned a team to review. Time will be spent on peer review in class in Week 14, and your team will have until **Saturday in Week 14** to provide a detailed critique about the written report and data analysis. This feedback is intended to help you create a high quality final project, as well as give you experience reading and constructively critiquing the work of others.
 
 Peer feedback will be graded on the extent to which it comprehensively and constructively addresses the components of the partner team's report: the research context and motivation, exploratory data analysis, and any inference, modeling, or conclusions. 
 
-You will also engage in (ungraded) peer review of poster drafts and oral presentation materials in class in Weeks 13 & 14, in preparation for the final presentations during finals week. 
+You will also engage in (ungraded) peer review of poster drafts and oral presentation materials in class in Week 14, in preparation for the final presentations during Week 15 & finals week. 
 
 ## Written report
 
@@ -349,13 +351,13 @@ Assessment:
 
 This is an assessment of the overall presentation and formatting of the written report.
 
-## Poster + Oral Presentation
+## Slides + Oral Presentation
 
-### Poster
+### Slides
 
-In addition to the write-up, your team must also create an academic poster to summarize and showcase your project. Introduce your research question and dataset, showcase visualizations, and provide some conclusions. These poster should serve as a visual "elevator pitch" to accompany to your write-up and will be graded for content and quality. The poster is due on Blackboard **no later than noon on Friday, December 8.** This will allow time to have them printed before the presentations during Finals Week. 
+In addition to the write-up, your team must also create slides to summarize and showcase your project. Introduce your research question and dataset, showcase visualizations, and provide some conclusions. These slides should serve as a visual "elevator pitch" to accompany to your write-up and will be graded for content and quality. The slides are due on Blackboard **no later than the assigned time of your presentation.**
 
-Here is a *<u>suggested</u>* outline as you think through what should be included on the poster; you do *<u>not</u>* have to use these exact categories:
+Here is a *<u>suggested</u>* outline as you think through what should be included in your slides; you do *<u>not</u>* have to use these exact categories:
 
 - Title / Catchy summary statement of what you found
 - Background / motivation 
@@ -365,26 +367,27 @@ Here is a *<u>suggested</u>* outline as you think through what should be include
 - (Visual) highlights of inference / modeling results
 - Conclusions + future work
 
-We will use the [#betterposter approach](https://www.youtube.com/watch?v=SYk29tnxASs) to ground our posters effective communication best practices! 
+You will be expected to design your slides using effective communication best practices learned in class. 
 
 
-### Poster presentation
+### Oral presentation
 
-During our final exam time slot, we will hold a poster session where you will present your posters. You will also turn in a 2-5 minute recorded video of your poster "elevator pitch." Details will be provided during the semester.
+You will sign up for a time slot to present during Week 15 or Finals Week. Details will be provided during the semester.
 
 ## Project repository
 
-All written work (with exception of poster) should be reproducible, and the RStudio project repo should be neatly organized, submitted as a .zip file.
+All written work (with exception of slides) should be reproducible, and the RStudio project repo should be neatly organized, submitted as a .zip file.
 
 The repo should have the following structure:
 
 - `README`: Short project description and data dictionary
 - `.Rproj` file
 - `written-report.qmd` & `written-report.pdf`
+- `presentation.pptx`, `presentation.pdf`, or other similar slide format
 - `project-proposal.qmd` & `project-proposal.pdf`
 - `cleaning-eda.qmd` & `cleaning-eda.html`
 - `/data`: Folder that contains the data set for the final project.
-- `/poster`: Folder with the poster and accompanying documents. 
+
   
 Points for reproducibility + organization will be based on the reproducibility of the written report and the organization of the project  repo. The repo should be neatly organized as described above, there should be no extraneous files, all text in the README should be easily readable.
 
@@ -433,7 +436,7 @@ packages you may use. You do not need to visualize all of the data at once. A si
 - Ask questions if any of the expectations are 
 unclear.
 
-- *Code*: In your write up your code should be hidden (`echo = FALSE`) so that your document is neat and easy to read. However, your document should include all your code such that if I re-knit your .Rmd file I should be able to obtain the results you presented. 
+- *Code*: In your write up your code should be hidden (`echo = FALSE`) so that your document is neat and easy to read. However, your document should include all your code such that if I re-render your .qmd file I should be able to obtain the results you presented. 
   - **Exception:** If you want to highlight something 
 specific about a piece of code, you're welcome to show that portion. 
 - Make sure each team member is contributing, both in terms of quality and quantity of contribution.
@@ -444,7 +447,7 @@ specific about a piece of code, you're welcome to show that portion.
 
 #### Suppress Code, Warnings, & Messages
 
-- Include the following code in a code chunk at the top of your .Rmd file to suppress all code, warnings, and other messages. Use the code chunk header `{r set-up, include = FALSE}` to suppress this set up code. 
+- Include the following code in a code chunk at the top of your .qmd file to suppress all code, warnings, and other messages. Use the code chunk header `{r set-up, include = FALSE}` to suppress this set up code. 
 
 
 ```r
@@ -511,7 +514,8 @@ ggplot(data = mpg, aes(x = manufacturer)) +
   geom_bar()
 ```
 
-<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-3-1.png" width="672" />
+<img src="{{ "index_files/figure-html/unnamed-chunk-3-1.png" | relURL }}" width="672" />
+
 
 ✅ **YES! Names are readable**
 
@@ -522,7 +526,8 @@ ggplot(data = mpg, aes(x = manufacturer)) +
   coord_flip()
 ```
 
-<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-4-1.png" width="672" />
+<img src="{{ "index_files/figure-html/unnamed-chunk-4-1.png" | relURL }}" width="672" />
+
 
 #### Do a little more to make the plot look professional!
 
