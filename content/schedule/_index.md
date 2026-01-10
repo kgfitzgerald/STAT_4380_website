@@ -9,10 +9,11 @@ The following table provides links to all course assignments.
 
 Each week will include:
 
-+ **Prepare**: watch videos and complete prep quiz by class time Tuesday (4:20pm)
-+ **Application Exercise**: in-class together on Tuesdays, due at end of class (5:45pm)
-+ **Lab**: in-class together on Thursdays, due class-time the following Thursday (4:20pm)
-+ **Reading Annotations and/or Statistics Experience (SE)**: on your own, due Thursdays at class-time (4:20pm)
++ **Preparation**: engage with lecture videos in Perusall by class time Tuesday (4pm)
++ **Application Exercise**: in-class together on Tuesdays, due at end of class (5:15pm)
++ **Quiz**: at the beginning of class on Thursdays
++ **Lab**: in-class together on Thursdays, due class-time the following Thursday (4pm)
++ **Reading Annotations**: on your own, due Thursdays at class-time (4pm)
 
 This course includes a final project, with scaffolded deadlines throughout the semester. We will have several in-class work sessions, but you are expected to complete a majority of the project with your team outside of class. 
 
