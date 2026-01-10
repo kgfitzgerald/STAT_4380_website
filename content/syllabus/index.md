@@ -2,7 +2,7 @@
 title: About this course
 ---
 
-[**Click here**](STAT_4380_Fitzgerald_F24.pdf) **to download a PDF copy of the official course syllabus.**
+[**Click here**](STAT 4380 Fitzgerald S26.pdf) **to download a PDF copy of the official course syllabus.**
 
 ## Course Info
 
