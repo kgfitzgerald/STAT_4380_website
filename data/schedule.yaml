@@ -1,3 +1,4 @@
+#layout is controlled by layouts > shortcodes > schedule.html
 lessons:
   - title: '<span class="fake-header-table"></span>'
     header: True
