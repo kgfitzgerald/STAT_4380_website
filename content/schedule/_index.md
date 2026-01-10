@@ -33,6 +33,7 @@ Note that this schedule may be updated as the semester progresses, with all chan
 {{% schedule %}}
 </div>
 
+<!--
 ## Lecture slides and recordings
 
 The table below provides links to all the lecture slides and recordings. Note, these can also be found in the "Prepare" links above.
@@ -40,3 +41,4 @@ The table below provides links to all the lecture slides and recordings. Note, t
 <div align = "center">
 {{% schedule2 %}}
 </div>
+-->

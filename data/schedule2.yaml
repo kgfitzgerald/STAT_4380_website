@@ -3,7 +3,7 @@ lessons:
     header: True
     
   - week: "Week 01"
-    date: "Aug 27 - 29"
+    date: "Jan 12 - 16"
     title: "Welcome to STAT 4380!"
     slides: "https://kgfitzgerald.github.io/NOVA_STAT_4380/slides/01-intro.html#1"
     
@@ -12,7 +12,7 @@ lessons:
     recording: "https://youtu.be/We1fEb-oV98"
     
   - week:  "Week 02"
-    date:  "Sep 3 - 5"
+    date:  "Jan 19 - 23"
     title: "Data and visualization"
     slides: "https://kgfitzgerald.github.io/NOVA_STAT_4380/slides/03-data-viz.html"
     recording: "https://youtu.be/R1UGnork_Gs"
@@ -30,7 +30,7 @@ lessons:
     recording: "https://youtu.be/ZMECwyhjctU"
     
   - week: "Week 03"
-    date:  "Sep 10 - 12"
+    date:  "Jan 26 - 30"
     title: "Tidy data"
     slides: "https://kgfitzgerald.github.io/NOVA_STAT_4380/slides/07-tidy-data.html"
     recording: "https://youtu.be/J8YvhjEHkCM"
@@ -44,7 +44,7 @@ lessons:
     recording: "https://youtu.be/EjBTGdiVxvA"
     
   - week: "Week 04"
-    date:  "Sep 17 - 19"
+    date:  "Feb 2 - 6"
     title: "Working with multiple data frames"
     slides: "https://kgfitzgerald.github.io/NOVA_STAT_4380/slides/10-multi-df.html"
     recording: "https://youtu.be/IK_uxavp7k8"
@@ -62,7 +62,7 @@ lessons:
   #   recording: "https://youtu.be/WQYKkfj1bOg"
     
   - week: "Week 05"
-    date:  "Sep 24- 26"
+    date:  "Feb 9 - 13"
     title: "Doing data science"     
     slides: "https://kgfitzgerald.github.io/NOVA_STAT_4380/slides/16-doing-data-science.html"
     recording: ""
@@ -75,7 +75,7 @@ lessons:
 
 
   - week: "Week 06"
-    date:  "Oct 1 - 3"
+    date:  "Feb 16 - 20"
     title: "Data classes"
     slides: "https://kgfitzgerald.github.io/NOVA_STAT_4380/slides/13-data-classes.html"
     recording: "https://youtu.be/oQWX5btmtn0"
@@ -91,7 +91,7 @@ lessons:
 
     
   - week: "Week 07"
-    date:  "Oct 8 - 10"
+    date:  "Feb 23 - 27"
     title: "Misrepresentation"
     slides: "https://kgfitzgerald.github.io/NOVA_STAT_4380/slides/19-misrepresentation.html"
     recording: "https://youtu.be/p4Ip0K-h-a8"
@@ -105,7 +105,7 @@ lessons:
     recording: "https://youtu.be/WpKOuUgnvxI"
 
   - week: "Week 08"
-    date:  "Oct 15 - 17"
+    date:  "Mar 9 - 13"
     title: "The language of models"
     slides: "https://kgfitzgerald.github.io/NOVA_STAT_4380/slides/22-language-of-models.html"
     recording: "https://youtu.be/bQrR8HFKKhI"
@@ -123,7 +123,7 @@ lessons:
     recording: "https://youtu.be/06ncimugf_w"
 
   - week: "Week 09"
-    date:  "Oct 22 - 24"
+    date:  "Mar 16 - 20"
     title: "Quantifying uncertainty - confidence intervals"     
     slides: "https://kgfitzgerald.github.io/NOVA_STAT_4380/slides/26-quantify-uncertainty.html"
     recording: "https://youtu.be/ZUBq4cMlBjk"
@@ -134,37 +134,37 @@ lessons:
 
 
   - week: "Week 10"
-    date:  "Oct 29 – 31"  
-    title: "Inference for Numerical Data, Part I: One Mean"
-    slides: "https://kgfitzgerald.github.io/NOVA_STAT_4380/slides/28-num-inf-one-mean.html"
-    recording: "https://youtu.be/knRfA4i1YNA"
-
-  - title: "Inference for Numerical Data, Part II: Two Means"     
-    slides: "https://kgfitzgerald.github.io/NOVA_STAT_4380/slides/29-num-inf-two-means.html"
-    recording: "https://youtu.be/S5OzAYVe-S4"
-    
-  - title: "Inference for Numerical Data, Part III: Many Means"     
-    slides: "https://kgfitzgerald.github.io/NOVA_STAT_4380/slides/30-num-inf-many-means.html"
-    recording: "https://youtu.be/Ww-jIiKT6YY"
+    date:  "Mar 23 - 27"  
+    title: "Web Scraping"
+  #   slides: "https://kgfitzgerald.github.io/NOVA_STAT_4380/slides/28-num-inf-one-mean.html"
+  #   recording: "https://youtu.be/knRfA4i1YNA"
+  # 
+  # - title: "Inference for Numerical Data, Part II: Two Means"     
+  #   slides: "https://kgfitzgerald.github.io/NOVA_STAT_4380/slides/29-num-inf-two-means.html"
+  #   recording: "https://youtu.be/S5OzAYVe-S4"
+  #   
+  # - title: "Inference for Numerical Data, Part III: Many Means"     
+  #   slides: "https://kgfitzgerald.github.io/NOVA_STAT_4380/slides/30-num-inf-many-means.html"
+  #   recording: "https://youtu.be/Ww-jIiKT6YY"
 
   - week: "Week 11"
-    date:  "Nov 5 – 7"
-    title: "Inference for Categorical Data, Part I: One proportion" 
-    slides: "https://kgfitzgerald.github.io/NOVA_STAT_4380/slides/31-cat-inf-one-prop.html"
-    recording: "https://youtu.be/Di9weeNXhCg"
-
-  - title: "Inference for Categorical Data, Part II: Difference in proportions, Odds ration, Relative risk"
-    slides: "https://kgfitzgerald.github.io/NOVA_STAT_4380/slides/32-cat-inf-diff-props-OR-RR.html"
-    recording: "https://youtu.be/u35HGRSxKoY"
+    date:  "Mar 30 - April 3"
+    title: "Communicating Results I" 
+  #   slides: "https://kgfitzgerald.github.io/NOVA_STAT_4380/slides/31-cat-inf-one-prop.html"
+  #   recording: "https://youtu.be/Di9weeNXhCg"
+  # 
+  # - title: "Inference for Categorical Data, Part II: Difference in proportions, Odds ration, Relative risk"
+  #   slides: "https://kgfitzgerald.github.io/NOVA_STAT_4380/slides/32-cat-inf-diff-props-OR-RR.html"
+  #   recording: "https://youtu.be/u35HGRSxKoY"
     
-  - title: "Inference for Categorical Data, Part III: Two-way tables (Chi-square test)"
-    slides: "https://kgfitzgerald.github.io/NOVA_STAT_4380/slides/33-cat-inf-two-way-tables.html"
-    recording: "https://youtu.be/aUtjnTfmVuA"
+  #- #title: "Inference for Categorical Data, Part III: Two-way tables (Chi-square test)"
+    #slides: "https://kgfitzgerald.github.io/NOVA_STAT_4380/slides/33-cat-inf-two-way-tables.html"
+    #recording: "https://youtu.be/aUtjnTfmVuA"
 
   - week: "Week 12"
-    date:  "Nov 12 – 14"
-    title: "Communicating results"     
-    slides: "https://kgfitzgerald.github.io/NOVA_STAT_4380/slides/34-effective-comm.html"
+    date:  "April 6 - 10"
+    title: "Communicating results II"     
+    #slides: "https://kgfitzgerald.github.io/NOVA_STAT_4380/slides/34-effective-comm.html"
     #recording: "https://youtu.be/SSEhrGK9-8k"
 
   #- title: "Inference overview"     
@@ -172,14 +172,18 @@ lessons:
     #recording: "https://youtu.be/DdBfSb6PV9k"
     
   - week: "Week 13"
-    date:  "Nov 19 - 21"
-    title: "Communicating Results II"
+    date:  "April 13 - 17"
+    title: "Misc topics"
     #slides: "https://kgfitzgerald.github.io/NOVA_STAT_4380/slides/36-shiny.html"
     #recording: "https://youtu.be/clz1QGGu4oY"
     
   - week: "Week 14"
-    date:  "Dec 3 - 5"
-    title: "Project Wrap-Up"
+    date:  "April 20 - 24"
+    title: "Project Peer Review"
+    
+  - week: "Week 15"
+    date:  "April 27 - May 1"
+    title: "Project Presentations"
   
 
   
