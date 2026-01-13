@@ -8,7 +8,7 @@ Project Brainstorm due **Thursday, February 6, 11:59pm**
 
 Choose project teams by **Tuesday, February 10, 4pm**
 
-Proposal due **Saturday, February 19, 11:59pm**
+Proposal due **Saturday, February 21, 11:59pm**
 
 Data cleaning & preliminary EDA due **Thursday, March 12, 11:59pm**
 
