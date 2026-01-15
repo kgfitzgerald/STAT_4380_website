@@ -41,7 +41,7 @@
     
 
 [[main]]
-    url = "https://github.com/kgfitzgerald/STAT_4380_website"
+    url = "https://github.com/kgfitzgerald/NOVA_STAT_4380_templates"
     name  = "<i class='fab fa-github fa-lg'></i>"
     weight = 90
     
