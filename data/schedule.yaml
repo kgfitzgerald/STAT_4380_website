@@ -16,12 +16,15 @@ lessons:
     
   - week:  "Week 02"
     date:  "Jan 19 - 23"
-    title: "Data visualization"
+    title: "Data visualization intro"
+    slides: "https://kgfitzgerald.github.io/NOVA_STAT_4380/slides/03-data-viz-intro.html"
     #ann: "https://kgfitzgerald.github.io/NOVA_STAT_4380/announcements/week-02.html"
-    #prepare: "https://kgfitzgerald.github.io/NOVA_STAT_4380/prepare/week-02.html"
+    prepare: "https://kgfitzgerald.github.io/NOVA_STAT_4380/prepare/week-02.html"
     #lab: "https://kgfitzgerald.github.io/NOVA_STAT_4380/labs/lab-02-data-viz.html"
     #hw: "https://kgfitzgerald.github.io/NOVA_STAT_4380/hw/hw-01-airbnb.html"
     
+  - title: "Variable types & visualization types"
+    slides: "https://kgfitzgerald.github.io/NOVA_STAT_4380/slides/04-viz-types.html"
 
   - week: "Week 03"
     date:  "Jan 26 - 30"
