@@ -18,9 +18,9 @@ lessons:
     date:  "Jan 19 - 23"
     title: "Data visualization intro"
     slides: "https://kgfitzgerald.github.io/NOVA_STAT_4380/slides/03-data-viz-intro.html"
-    #ann: "https://kgfitzgerald.github.io/NOVA_STAT_4380/announcements/week-02.html"
+    ann: "https://kgfitzgerald.github.io/NOVA_STAT_4380/announcements/week-02.html"
     prepare: "https://kgfitzgerald.github.io/NOVA_STAT_4380/prepare/week-02.html"
-    #lab: "https://kgfitzgerald.github.io/NOVA_STAT_4380/labs/lab-02-data-viz.html"
+    lab: "https://kgfitzgerald.github.io/NOVA_STAT_4380/labs/lab-02-data-viz.html"
     #hw: "https://kgfitzgerald.github.io/NOVA_STAT_4380/hw/hw-01-airbnb.html"
     
   - title: "Variable types & visualization types"
@@ -30,7 +30,7 @@ lessons:
     date:  "Jan 26 - 30"
     title: "Data wrangling I"
     #ann: "https://kgfitzgerald.github.io/NOVA_STAT_4380/announcements/week-03.html"
-    #prepare: "https://kgfitzgerald.github.io/NOVA_STAT_4380/prepare/week-03.html"
+    prepare: "https://kgfitzgerald.github.io/NOVA_STAT_4380/prepare/week-03.html"
     #lab: "https://kgfitzgerald.github.io/NOVA_STAT_4380/labs/lab-03-college-majors.html"
     #se: "https://kgfitzgerald.github.io/NOVA_STAT_4380/engage/se-01.html"
     
