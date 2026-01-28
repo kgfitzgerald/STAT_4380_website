@@ -4,7 +4,7 @@ title: "STAT 4380 Final Project"
 
 ## Timeline
 
-Project Brainstorm due **Thursday, February 6, 11:59pm**
+Project Brainstorm due **Thursday, February 5, 11:59pm**
 
 Choose project teams by **Tuesday, February 10, 4pm**
 
@@ -31,7 +31,7 @@ The purpose of the final project is to apply what you’ve learned throughout th
 
 The project will be completed in self-assigned teams of 2. You should choose a dataset for your project based on your group's interests. The goal of this project is for you to demonstrate proficiency in the techniques we have covered in this class (and beyond, if you like!) and apply them to a dataset to analyze it in a meaningful way. 
 
-### Choosing a topic (Project Brainstorm)
+## Choosing a topic (Project Brainstorm)
 
 Below are some reflection questions to help you identify a topic you might want to explore.
 
