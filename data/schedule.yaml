@@ -32,7 +32,7 @@ lessons:
     slides: "https://kgfitzgerald.github.io/NOVA_STAT_4380/slides/05-data-wrangling-1a.html"
     ann: "https://kgfitzgerald.github.io/NOVA_STAT_4380/announcements/week-03.html"
     prepare: "https://kgfitzgerald.github.io/NOVA_STAT_4380/prepare/week-03.html"
-    #lab: "https://kgfitzgerald.github.io/NOVA_STAT_4380/labs/lab-03-college-majors.html"
+    lab: "https://kgfitzgerald.github.io/NOVA_STAT_4380/labs/lab-03-college-majors.html"
     #se: "https://kgfitzgerald.github.io/NOVA_STAT_4380/engage/se-01.html"
     
   - title: "Data Wrangling 1b"
@@ -42,10 +42,11 @@ lessons:
     date:  "Feb 2 - 6"
     title: "Data wrangling II"
     #ann: "https://kgfitzgerald.github.io/NOVA_STAT_4380/announcements/week-04.html"
-    #prepare: "https://kgfitzgerald.github.io/NOVA_STAT_4380/prepare/week-04.html"
+    prepare: "https://kgfitzgerald.github.io/NOVA_STAT_4380/prepare/week-04.html"
     #lab: "https://kgfitzgerald.github.io/NOVA_STAT_4380/labs/lab-04-womens-soccer.html"
     #hw: "https://kgfitzgerald.github.io/NOVA_STAT_4380/hw/hw-02-avengers.html"
     #project: "https://nova-stat-4380.netlify.app/project/"
+    slides: "https://kgfitzgerald.github.io/NOVA_STAT_4380/slides/07-data-wrangling-2.html"
 
     
   - week: "Week 05"
