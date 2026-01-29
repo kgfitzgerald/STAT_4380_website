@@ -45,7 +45,7 @@ lessons:
     prepare: "https://kgfitzgerald.github.io/NOVA_STAT_4380/prepare/week-04.html"
     #lab: "https://kgfitzgerald.github.io/NOVA_STAT_4380/labs/lab-04-womens-soccer.html"
     #hw: "https://kgfitzgerald.github.io/NOVA_STAT_4380/hw/hw-02-avengers.html"
-    #project: "https://nova-stat-4380.netlify.app/project/"
+    project: "https://nova-stat-4380.netlify.app/project/#choosing-a-topic-project-brainstorm"
     slides: "https://kgfitzgerald.github.io/NOVA_STAT_4380/slides/07-data-wrangling-2.html"
 
     
