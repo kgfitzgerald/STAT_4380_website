@@ -43,7 +43,7 @@ lessons:
     title: "Data wrangling II"
     ann: "https://kgfitzgerald.github.io/NOVA_STAT_4380/announcements/week-04.html"
     prepare: "https://kgfitzgerald.github.io/NOVA_STAT_4380/prepare/week-04.html"
-    #lab: "https://kgfitzgerald.github.io/NOVA_STAT_4380/labs/lab-04-womens-soccer.html"
+    lab: "https://kgfitzgerald.github.io/NOVA_STAT_4380/labs/lab-04-womens-soccer.html"
     #hw: "https://kgfitzgerald.github.io/NOVA_STAT_4380/hw/hw-02-avengers.html"
     project: "https://nova-stat-4380.netlify.app/project/#choosing-a-topic-project-brainstorm"
     slides: "https://kgfitzgerald.github.io/NOVA_STAT_4380/slides/07-data-wrangling-2.html"
@@ -53,9 +53,9 @@ lessons:
     date:  "Feb 9 - 13"
     title: "Data Wrangling III"
     #ann: "https://kgfitzgerald.github.io/NOVA_STAT_4380/announcements/week-05.html"
-    #prepare: "https://kgfitzgerald.github.io/NOVA_STAT_4380/prepare/week-05.html"
+    prepare: "https://kgfitzgerald.github.io/NOVA_STAT_4380/prepare/week-05.html"
     #exam: "https://kgfitzgerald.github.io/NOVA_STAT_4380/exam/exam-for-website.html"
-
+    slides: "https://kgfitzgerald.github.io/NOVA_STAT_4380/slides/08-data-wrangling-3.html"
   
   - week: "Week 06"
     date:  "Feb 16 - 20"
@@ -63,7 +63,7 @@ lessons:
     #ann: "https://kgfitzgerald.github.io/NOVA_STAT_4380/announcements/week-06.html"
     #prepare: "https://kgfitzgerald.github.io/NOVA_STAT_4380/prepare/week-06.html"
     #lab: "https://kgfitzgerald.github.io/NOVA_STAT_4380/labs/lab-05-google-survey.html"
-    #project: "https://nova-stat-4380.netlify.app/project/#project-proposal"
+    project: "https://nova-stat-4380.netlify.app/project/#project-proposal"
     
   
   - week: "Week 07"
