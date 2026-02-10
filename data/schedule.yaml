@@ -57,6 +57,8 @@ lessons:
     #exam: "https://kgfitzgerald.github.io/NOVA_STAT_4380/exam/exam-for-website.html"
     slides: "https://kgfitzgerald.github.io/NOVA_STAT_4380/slides/08-data-wrangling-3.html"
   
+  - slides: "https://kgfitzgerald.github.io/NOVA_STAT_4380/slides/09-data-wrangling-3b.html"
+  
   - week: "Week 06"
     date:  "Feb 16 - 20"
     title: "Data importing & cleaning"
