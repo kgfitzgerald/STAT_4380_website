@@ -52,7 +52,7 @@ lessons:
   - week: "Week 05"
     date:  "Feb 9 - 13"
     title: "Data Wrangling III"
-    #ann: "https://kgfitzgerald.github.io/NOVA_STAT_4380/announcements/week-05.html"
+    ann: "https://kgfitzgerald.github.io/NOVA_STAT_4380/announcements/week-05.html"
     prepare: "https://kgfitzgerald.github.io/NOVA_STAT_4380/prepare/week-05.html"
     #exam: "https://kgfitzgerald.github.io/NOVA_STAT_4380/exam/exam-for-website.html"
     slides: "https://kgfitzgerald.github.io/NOVA_STAT_4380/slides/08-data-wrangling-3.html"
