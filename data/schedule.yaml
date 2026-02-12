@@ -56,14 +56,14 @@ lessons:
     prepare: "https://kgfitzgerald.github.io/NOVA_STAT_4380/prepare/week-05.html"
     #exam: "https://kgfitzgerald.github.io/NOVA_STAT_4380/exam/exam-for-website.html"
     slides: "https://kgfitzgerald.github.io/NOVA_STAT_4380/slides/08-data-wrangling-3.html"
-  
+    lab: "https://kgfitzgerald.github.io/NOVA_STAT_4380/labs/lab-05-pivot-practice.html"
   - slides: "https://kgfitzgerald.github.io/NOVA_STAT_4380/slides/09-data-wrangling-3b.html"
   
   - week: "Week 06"
     date:  "Feb 16 - 20"
     title: "Data importing & cleaning"
     #ann: "https://kgfitzgerald.github.io/NOVA_STAT_4380/announcements/week-06.html"
-    #prepare: "https://kgfitzgerald.github.io/NOVA_STAT_4380/prepare/week-06.html"
+    prepare: "https://kgfitzgerald.github.io/NOVA_STAT_4380/prepare/week-06.html"
     #lab: "https://kgfitzgerald.github.io/NOVA_STAT_4380/labs/lab-05-google-survey.html"
     project: "https://nova-stat-4380.netlify.app/project/#project-proposal"
     
