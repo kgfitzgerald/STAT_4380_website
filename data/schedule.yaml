@@ -66,7 +66,7 @@ lessons:
     prepare: "https://kgfitzgerald.github.io/NOVA_STAT_4380/prepare/week-06.html"
     #lab: "https://kgfitzgerald.github.io/NOVA_STAT_4380/labs/lab-05-google-survey.html"
     project: "https://nova-stat-4380.netlify.app/project/#project-proposal"
-    - slides: "https://kgfitzgerald.github.io/NOVA_STAT_4380/slides/10-data-importing-cleaning.html"
+    slides: "https://kgfitzgerald.github.io/NOVA_STAT_4380/slides/10-data-importing-cleaning.html"
   
   - week: "Week 07"
     date:  "Feb 23 - 27"
