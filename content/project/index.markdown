@@ -100,7 +100,6 @@ Some resources that may be helpful:
 -   [Data.gov](https://www.data.gov/)
 -   [Data is Plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
 -   [Durham Open Data Portal](https://live-durhamnc.opendata.arcgis.com/)
--   [Edinburgh Open Data](https://edinburghopendata.info/)
 -   [Election Studies](https://electionstudies.org//)
 -   [European Statistics](https://ec.europa.eu/eurostat/)
 -   [FiveThirtyEight](https://data.fivethirtyeight.com)
