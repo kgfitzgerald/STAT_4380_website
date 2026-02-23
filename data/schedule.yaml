@@ -73,10 +73,11 @@ lessons:
   - week: "Week 07"
     date:  "Feb 23 - 27"
     title: "Review / Projects"
-    #ann: "https://kgfitzgerald.github.io/NOVA_STAT_4380/announcements/week-07.html"
+    lab: "https://kgfitzgerald.github.io/NOVA_STAT_4380/labs/lab-07-avengers-happiness.html"
+    ann: "https://kgfitzgerald.github.io/NOVA_STAT_4380/announcements/week-07.html"
     #prepare: "https://kgfitzgerald.github.io/NOVA_STAT_4380/prepare/week-07.html"
     #hw: "https://kgfitzgerald.github.io/NOVA_STAT_4380/hw/hw-03-sad-plots.html"
-    #project: "https://nova-stat-4380.netlify.app/project/#data-cleaning--preliminary-eda"
+    project: "https://nova-stat-4380.netlify.app/project/#data-cleaning--preliminary-eda"
   
   - week: "Week 08"
     date:  "Mar 9 - 13"
