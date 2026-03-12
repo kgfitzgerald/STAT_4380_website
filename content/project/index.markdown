@@ -16,7 +16,7 @@ Preliminary Data Story due **Tuesday, March 31, 11:59pm**
 
 Presentation rough draft due **Thursday, April 16, 11:59pm**
 
-Written report rough draft due **Tuesday, April 21, 11:59pm** 
+Written report rough draft due **Tuesday, April 21, 4pm** 
 
 Final presentations: **April 28 & 30 (classtime) + Monday, May 11, 2:30 - 5pm**
 
