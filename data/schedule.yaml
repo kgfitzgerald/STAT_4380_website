@@ -94,7 +94,7 @@ lessons:
     #ann: "https://kgfitzgerald.github.io/NOVA_STAT_4380/announcements/week-09.html"
     prepare: "https://kgfitzgerald.github.io/NOVA_STAT_4380/prepare/week-09.html"
     #hw: "https://kgfitzgerald.github.io/NOVA_STAT_4380/hw/hw-03-exploring-gss.html"
-    
+    slides: "https://kgfitzgerald.github.io/NOVA_STAT_4380/slides/13-strings.html"
 
   - week: "Week 10"
     date:  "Mar 23 - 27"
