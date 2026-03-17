@@ -98,7 +98,7 @@ lessons:
 
   - week: "Week 10"
     date:  "Mar 23 - 27"
-    title: "Web scraping"
+    title: "Project Storyboarding"
     #ann: "https://kgfitzgerald.github.io/NOVA_STAT_4380/announcements/week-10.html"
     #prepare: "https://kgfitzgerald.github.io/NOVA_STAT_4380/prepare/week-10.html"
     #lab: "https://kgfitzgerald.github.io/NOVA_STAT_4380/labs/lab-07-inference.html"
@@ -107,7 +107,7 @@ lessons:
   
   - week: "Week 11"
     date:  "Mar 30 - April 3"
-    title: "Communicating Results"
+    title: "Web scraping"
     #ann: "https://kgfitzgerald.github.io/NOVA_STAT_4380/announcements/week-11.html"
     #prepare: "https://kgfitzgerald.github.io/NOVA_STAT_4380/prepare/week-11.html"
     #hw: "https://kgfitzgerald.github.io/NOVA_STAT_4380/hw/hw-04.html"
@@ -115,7 +115,7 @@ lessons:
   
   - week: "Week 12"
     date:  "April 6 - 10"
-    title: "Misc topics I"
+    title: "Communicating Results I"
     #ann: "https://kgfitzgerald.github.io/NOVA_STAT_4380/announcements/week-12.html"
     #prepare: "https://kgfitzgerald.github.io/NOVA_STAT_4380/prepare/week-12.html"
     #project: "https://nova-stat-4380.netlify.app/project/#peer-review"
@@ -123,7 +123,7 @@ lessons:
 
   - week: "Week 13"
     date:  "April 13 - 17"
-    title: "Misc topics II"
+    title: "Communicating Results II"
     #ann: "https://kgfitzgerald.github.io/NOVA_STAT_4380/announcements/week-13.html"
     #prepare: "https://kgfitzgerald.github.io/NOVA_STAT_4380/prepare/week-13.html"
     #se: "https://kgfitzgerald.github.io/NOVA_STAT_4380/other/eoc.html"
@@ -140,7 +140,3 @@ lessons:
     #prepare: "https://kgfitzgerald.github.io/NOVA_STAT_4380/prepare/week-14.html"
     #project: "https://nova-stat-4380.netlify.app/project/#written-report"
   
-  - week: "Finals Week"
-    date: "May 11 (Mon)"
-    title: "Project Presentations continued"
-    #project: "https://nova-stat-4380.netlify.app/project/#slides--oral-presentation"
