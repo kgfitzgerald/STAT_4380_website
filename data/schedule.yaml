@@ -91,7 +91,7 @@ lessons:
   - week: "Week 09"
     date:  "Mar 16 - 20"
     title: "Working with strings"
-    #ann: "https://kgfitzgerald.github.io/NOVA_STAT_4380/announcements/week-09.html"
+    ann: "https://kgfitzgerald.github.io/NOVA_STAT_4380/announcements/week-09.html"
     prepare: "https://kgfitzgerald.github.io/NOVA_STAT_4380/prepare/week-09.html"
     #hw: "https://kgfitzgerald.github.io/NOVA_STAT_4380/hw/hw-03-exploring-gss.html"
     slides: "https://kgfitzgerald.github.io/NOVA_STAT_4380/slides/13-strings.html"
