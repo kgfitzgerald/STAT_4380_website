@@ -100,7 +100,7 @@ lessons:
   - week: "Week 10"
     date:  "Mar 23 - 27"
     title: "Project Storyboarding"
-    #ann: "https://kgfitzgerald.github.io/NOVA_STAT_4380/announcements/week-10.html"
+    ann: "https://kgfitzgerald.github.io/NOVA_STAT_4380/announcements/week-10.html"
     #prepare: "https://kgfitzgerald.github.io/NOVA_STAT_4380/prepare/week-10.html"
     #lab: "https://kgfitzgerald.github.io/NOVA_STAT_4380/labs/lab-07-inference.html"
     #project: "https://nova-stat-4380.netlify.app/project/#rough-draft-report"
