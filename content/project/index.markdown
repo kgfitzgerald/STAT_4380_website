@@ -240,7 +240,7 @@ Total                                                   | 3 pts
 
 ## Preliminary Data Story
 
-For this part of the project, you should follow Chapter 6 of *Communicating with Data* as a guide (a scanned copy will be provided to you in class). 
+We will get started on this part of the project in class. You will follow Chapter 6 of *Communicating with Data* as a guide (a pdf was sent out and a scanned copy will be provided to you in class). 
 
 + To get started, in addition to your EDA plots, you should produce at least 10 visualizations or tables to investigate your research question. 
 + Then, complete steps 1 - 6 on pages 128 - 129
