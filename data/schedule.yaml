@@ -128,7 +128,7 @@ lessons:
   - week: "Week 13"
     date:  "April 13 - 17"
     title: "Communicating Results"
-    #ann: "https://kgfitzgerald.github.io/NOVA_STAT_4380/announcements/week-13.html"
+    ann: "https://kgfitzgerald.github.io/NOVA_STAT_4380/announcements/week-13.html"
     #prepare: "https://kgfitzgerald.github.io/NOVA_STAT_4380/prepare/week-13.html"
     #se: "https://kgfitzgerald.github.io/NOVA_STAT_4380/other/eoc.html"
     #project: "https://nova-stat-4380.netlify.app/project/#slides--oral-presentation"
