@@ -16,7 +16,13 @@ Preliminary Data Story due **Tuesday, April 7, 11:59pm**
 
 Presentation rough draft due **Thursday, April 16, 11:59pm**
 
-Written report rough draft due **Tuesday, April 21, 4pm** 
+Written report rough draft due **Tuesday, April 21, 4pm - BRING 3 HARD COPIES WITH YOU TO CLASS!** 
+
+Peer review of presentation rough draft **Tuesday, April 21, in-class** (must be in class)
+
+Peer review of written report rough draft **Thursday, April 23, in-class** (must be in class)
+
+Formal peer review due **Saturday, April 25, 11:59pm**
 
 Final presentations: **April 28 & 30 (classtime) + Monday, May 11, 2:30 - 5pm**
 
@@ -64,7 +70,7 @@ Total                                                   | 100 pts
 **Project proposal**                                    | 3 pts
 **Preliminary EDA & Cleaning**                          | 3 pts
 **Preliminary Data Story**                              | 3 pts
-**Presentaiton Rough Draft**                            | 3 pts
+**Presentation Rough Draft**                            | 3 pts
 **Written Rough Draft**                                 | 3 pts
 **Peer feedback**                                       | 5 pts
 **Written report**                                      | 35 pts
@@ -270,14 +276,14 @@ You will be assigned a team to review. Time will be spent on peer review in clas
 
 Peer feedback will be graded on the extent to which it comprehensively and constructively addresses the components of the partner team's report: the research context and motivation, exploratory data analysis, and any inference, modeling, or conclusions. 
 
-You will also engage in (ungraded) peer review of poster drafts and oral presentation materials in class in Week 14, in preparation for the final presentations during Week 15 & finals week. 
+You will also engage in (ungraded) peer review of presentation materials in class in Week 14, in preparation for the final presentations during Week 15. 
 
 ## Written report
 
 Your final report must be written using Quarto. All team members must contribute meaningfully to the analysis and are responsible for what's contained in the final report. Before you finalize your report, make sure the printing of code chunks is turned off with the option `#| echo: false`.
 
 
-**Submit the final report on Blackboard under the <i>Final Report & Repo</i> assignment.** The mandatory components of the report are below. You are free to add additional sections as necessary. The report, including visualizations, should be **no more than 10 pages long.** There is no minimum page requirement; however, you must comprehensively address all of the aspects mentioned below.
+**The final report will be submitted on Blackboard under the Final Deliverables assignment as one of several files in a zip folder.** The mandatory components of the report are below. You are free to add additional sections as necessary. The report, including visualizations, should be **no more than 10 pages long.** There is no minimum page requirement; however, you must comprehensively address all of the aspects mentioned below.
 
 The written report is worth 45 points, broken down as follows:
 
@@ -524,6 +530,9 @@ Be sure all plot titles and axis labels are visible and easy to read.
 - [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
 - [Slides in R using Xaringan](https://slides.yihui.org/xaringan/#1)
 - Data visualization
+  - [R Graph Gallery](https://r-graph-gallery.com)
+  - [Directory of visualizations](https://clauswilke.com/dataviz/directory-of-visualizations.html)
+  - [1 dataset 100 visualizations](https://100.datavizproject.com)
   - [ggplot2 Reference](https://ggplot2.tidyverse.org/reference/index.html)
   - [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/)
   - [Data Visualization: A Practice Introduction](https://socviz.co/index.html)
