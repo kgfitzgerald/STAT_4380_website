@@ -379,7 +379,7 @@ All written work (with exception of slides) should be reproducible, and the RStu
 
 The repo should have the following structure:
 
-- `README`: Short project description and data dictionary
+- `README`: Short project description and data dictionary/codebook (or clear indication of where it can be found in the repository)
 - `.Rproj` file
 - `written-report.qmd` & `written-report.pdf`
 - `presentation.pptx`, `presentation.pdf`, or other similar slide format
