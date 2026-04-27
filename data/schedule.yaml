@@ -141,7 +141,7 @@ lessons:
   - week: "Week 15"
     date:  "April 27 - May 1"
     title: "Project Presentations"
-    
+    ann: "https://kgfitzgerald.github.io/NOVA_STAT_4380/announcements/week-15.html"
     #prepare: "https://kgfitzgerald.github.io/NOVA_STAT_4380/prepare/week-14.html"
     #project: "https://nova-stat-4380.netlify.app/project/#written-report"
   
